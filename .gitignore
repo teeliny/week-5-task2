@@ -12,7 +12,6 @@ coverage
 lib
 build
 output
-*.csv
 *.xlsx
 
 # Dependency directories
